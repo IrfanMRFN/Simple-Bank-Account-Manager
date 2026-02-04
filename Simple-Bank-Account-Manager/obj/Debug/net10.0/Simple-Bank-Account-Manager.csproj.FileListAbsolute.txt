@@ -1,0 +1,15 @@
+f:\C# Projects\Simple Bank Account Manager\Simple-Bank-Account-Manager\Simple-Bank-Account-Manager\bin\Debug\net10.0\Simple-Bank-Account-Manager.exe
+f:\C# Projects\Simple Bank Account Manager\Simple-Bank-Account-Manager\Simple-Bank-Account-Manager\bin\Debug\net10.0\Simple-Bank-Account-Manager.deps.json
+f:\C# Projects\Simple Bank Account Manager\Simple-Bank-Account-Manager\Simple-Bank-Account-Manager\bin\Debug\net10.0\Simple-Bank-Account-Manager.runtimeconfig.json
+f:\C# Projects\Simple Bank Account Manager\Simple-Bank-Account-Manager\Simple-Bank-Account-Manager\bin\Debug\net10.0\Simple-Bank-Account-Manager.dll
+f:\C# Projects\Simple Bank Account Manager\Simple-Bank-Account-Manager\Simple-Bank-Account-Manager\bin\Debug\net10.0\Simple-Bank-Account-Manager.pdb
+f:\C# Projects\Simple Bank Account Manager\Simple-Bank-Account-Manager\Simple-Bank-Account-Manager\obj\Debug\net10.0\Simple-Bank-Account-Manager.GeneratedMSBuildEditorConfig.editorconfig
+f:\C# Projects\Simple Bank Account Manager\Simple-Bank-Account-Manager\Simple-Bank-Account-Manager\obj\Debug\net10.0\Simple-Bank-Account-Manager.AssemblyInfoInputs.cache
+f:\C# Projects\Simple Bank Account Manager\Simple-Bank-Account-Manager\Simple-Bank-Account-Manager\obj\Debug\net10.0\Simple-Bank-Account-Manager.AssemblyInfo.cs
+f:\C# Projects\Simple Bank Account Manager\Simple-Bank-Account-Manager\Simple-Bank-Account-Manager\obj\Debug\net10.0\Simple-Bank-Account-Manager.csproj.CoreCompileInputs.cache
+f:\C# Projects\Simple Bank Account Manager\Simple-Bank-Account-Manager\Simple-Bank-Account-Manager\obj\Debug\net10.0\Simple-Bank-Account-Manager.sourcelink.json
+f:\C# Projects\Simple Bank Account Manager\Simple-Bank-Account-Manager\Simple-Bank-Account-Manager\obj\Debug\net10.0\Simple-Bank-Account-Manager.dll
+f:\C# Projects\Simple Bank Account Manager\Simple-Bank-Account-Manager\Simple-Bank-Account-Manager\obj\Debug\net10.0\refint\Simple-Bank-Account-Manager.dll
+f:\C# Projects\Simple Bank Account Manager\Simple-Bank-Account-Manager\Simple-Bank-Account-Manager\obj\Debug\net10.0\Simple-Bank-Account-Manager.pdb
+f:\C# Projects\Simple Bank Account Manager\Simple-Bank-Account-Manager\Simple-Bank-Account-Manager\obj\Debug\net10.0\Simple-Bank-Account-Manager.genruntimeconfig.cache
+f:\C# Projects\Simple Bank Account Manager\Simple-Bank-Account-Manager\Simple-Bank-Account-Manager\obj\Debug\net10.0\ref\Simple-Bank-Account-Manager.dll
