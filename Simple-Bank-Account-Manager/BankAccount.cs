@@ -34,7 +34,7 @@ public class BankAccount
         }
 
         Balance += depositAmount;
-        return $"Deposit successful, current balance: {Balance}";
+        return $"Deposit successful, current balance: {Balance.ToString("C")}";
     }
 
     public string Withdraw(decimal withdrawAmount)
@@ -50,11 +50,11 @@ public class BankAccount
         }
 
         Balance -= withdrawAmount;
-        return $"Withdraw successful, current balance: {Balance}";
+        return $"Withdraw successful, current balance: {Balance.ToString("C")}";
     }
 
     public override string ToString()
     {
-        return $"Account Details:\nAccount Holder Name:\t{AccountHolderName}\nAccount Number:\t{AccountNumber}\nBalance:\t{Balance}";
+        return $"Account Details:\nAccount Holder Name:\t{AccountHolderName}\nAccount Number:\t{AccountNumber}\nBalance:\t{Balance.ToString("C")}";
     }
 }   
